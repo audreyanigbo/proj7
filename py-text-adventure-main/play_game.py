@@ -19,7 +19,6 @@ def play(rooms):
     # The things the player has collected.
     stuff = ['Cell Phone; no signal or battery...']
     
-    room_list = ['entranceHall', 'basement', 'attic', 'attic2', 'balcony', 'kitchen', 'dumbwaiter']
     cat_location = 'balcony'
     #print(cat_location)
     
