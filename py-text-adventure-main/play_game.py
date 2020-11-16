@@ -157,6 +157,7 @@ def find_visable_exits(room):
     
 def print_instructions():
     print("=== Instructions ===")
+    print(" - Type 'help' to see the instructions again")
     print(" - Type a number to select an exit.")
     print(" - Type 'stuff' to see what you're carrying.")
     print(" - Type 'take' to pick up an item.")
